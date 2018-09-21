@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class Materia {
     
-    String Nome;
+    String NomeMateria;
     int dificuldade;
     int faltas=0;
     float[] Notasbimestrais = new float[4];
